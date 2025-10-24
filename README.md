@@ -1,2 +1,2 @@
 # Nuxt
-Fullstack musical app like myspace
+Fullstack musical app like myspace on Vue + Nuxt
